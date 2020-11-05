@@ -11,6 +11,11 @@
   },
   "keywords": ["vue", "cli", "vue cli"],
   "author": "gaoyd",
+  "homepage": "https://github.com/gyd1997/onestep-cli",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gyd1997/onestep-cli"
+  },
   "license": "MIT",
   "dependencies": {
     "commander": "^6.2.0",

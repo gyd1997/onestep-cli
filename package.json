@@ -10,7 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": ["vue", "cli", "vue cli"],
-  "author": "gaoyd",
+  "author": "gyd1997",
   "homepage": "https://github.com/gyd1997/onestep-cli",
   "repository": {
     "type": "git",
